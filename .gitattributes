@@ -3,6 +3,6 @@ ChatRoomApp/* linguist-generated=true
 
 *.css linguist-vendored=true
 
-*.ejs linguist-language=NodeJS
+*.ejs linguist-language=JavaScript
 
 *.htm linguist-vendored=true
