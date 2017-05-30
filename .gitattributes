@@ -3,3 +3,5 @@
 *.css linguist-vendored=true
 
 *.ejs linguist-vendored=true
+
+*.htm linguist-vendored=true
