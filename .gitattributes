@@ -5,6 +5,4 @@ ChatRoomApp/* linguist-generated=true
 
 *.ejs linguist-language=JavaScript
 
-*
-
 *.htm linguist-language=JavaScript
