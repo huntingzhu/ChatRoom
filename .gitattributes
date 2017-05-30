@@ -1,8 +1,10 @@
 
 ChatRoomApp/* linguist-generated=true
 
-*.css linguist-vendored=true
+*.css linguist-language=JavaScript
 
 *.ejs linguist-language=JavaScript
 
-*.htm linguist-vendored=true
+*
+
+*.htm linguist-language=JavaScript
